@@ -152,7 +152,7 @@
 - Transfer Learning for Reinforcement Learning Domains: A Survey. [[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiu9KmlsY7RAhXJiVQKHTs_B34QFggfMAA&url=http%3A%2F%2Fwww.cs.utexas.edu%2F~ai-lab%2Fpubs%2FJMLR09-taylor.pdf&usg=AFQjCNH-Irnjnro_TgQx2T9D8mAz4KwHhw)] :star: 
 - <b>[Zero-Shot]</b> Zero-Shot Learning with Semantic Output Codes. [`pdf`](http://www.cs.cmu.edu/afs/cs/project/theo-73/www/papers/zero-shot-learning.pdf) :star:
 - Boosting for transfer learning. [[url](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjb4qT6r47RAhVDl1QKHfYYAfIQFgghMAA&url=http%3A%2F%2Fftp.cse.ust.hk%2F~qyang%2FDocs%2F2007%2Ftradaboost.pdf&usg=AFQjCNHrEGRLIvusHTEIwYmIGRUsUqeuPw)] :star: 
-    - A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting. [[pdf](http://www.face-rec.org/algorithms/Boosting-Ensemble/decision-theoretic_generalization.pdf)] :star: 
+- A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting. [[pdf](http://www.face-rec.org/algorithms/Boosting-Ensemble/decision-theoretic_generalization.pdf)] :star: 
 - Domain Adaptation via Transfer Component Analysis. [[pdf](http://home.cse.ust.hk/~qyang/Docs/2009/TCA.pdf)] :star: 
 - Co-clustering based Classification for Out-of-domain Documents. [[pdf](https://er2004.cse.ust.hk/~qyang/Docs/2007/daikdd.pdf)] :star: 
 - Frustratingly easy domain adaptation. [[pdf](http://www.umiacs.umd.edu/~hal/docs/daume07easyadapt.pdf)] :star: 
