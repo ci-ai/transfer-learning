@@ -61,6 +61,8 @@
 
 ##### 2018
 
+- [Instance-based Deep Transfer Learning](https://arxiv.org/abs/1809.02776v2)
+- [A Framework of Transfer Learning in Object Detection for Embedded Systems](https://arxiv.org/abs/1811.04863v2)
 - 3D Convolutional Encoder-Decoder Network for Low-Dose CT via Transfer Learning from a 2D Trained Network. [`arxiv`](https://arxiv.org/abs/1802.05656)
 - A Survey on Deep Transfer Learning. [`arxiv`](https://arxiv.org/abs/1808.01974)
 - Avatar-Net: Multi-scale Zero-shot Style Transfer by Feature Decoration. [`arxiv`](https://arxiv.org/abs/1805.03857)
@@ -72,8 +74,7 @@
 
 ##### 2017
 
-- []()
-- [A Framework of Transfer Learning in Object Detection for Embedded Systems](https://arxiv.org/abs/1811.04863v2)
+
 - Aligned Image-Word Representations Improve Inductive Transfer Across Vision-Language Tasks. [`arxiv`](https://arxiv.org/abs/1704.00260)
 - An Interpretable Knowledge Transfer Model for Knowledge Base Completion. [`arxiv`](https://arxiv.org/abs/1704.05908)
 - Arbitrary Style Transfer In Real-Time With Adaptive Instance Normalization. [`pdf`](https://openreview.net/pdf?id=B1fUVMzKg) [`code`](https://github.com/xunhuang1995/AdaIN-style) [`tensorflow`](https://github.com/elleryqueenhomels/arbitrary_style_transfer)
