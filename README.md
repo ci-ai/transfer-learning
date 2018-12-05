@@ -61,6 +61,7 @@
 
 ##### 2018
 
+- [Transfer Metric Learning: Algorithms, Applications and Outlooks](https://arxiv.org/abs/1810.03944v3)
 - [Controllability, Multiplexing, and Transfer Learning in Networks using Evolutionary Learning](https://arxiv.org/abs/1811.05592v1)
 - [Theoretical Guarantees of Transfer Learning](https://arxiv.org/abs/1810.05986v2)
 - [Instance-based Deep Transfer Learning](https://arxiv.org/abs/1809.02776v2)
