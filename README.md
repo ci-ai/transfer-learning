@@ -61,6 +61,7 @@
 
 ##### 2018
 
+- [Theoretical Guarantees of Transfer Learning](https://arxiv.org/abs/1810.05986v2)
 - [Instance-based Deep Transfer Learning](https://arxiv.org/abs/1809.02776v2)
 - [A Framework of Transfer Learning in Object Detection for Embedded Systems](https://arxiv.org/abs/1811.04863v2)
 - 3D Convolutional Encoder-Decoder Network for Low-Dose CT via Transfer Learning from a 2D Trained Network. [`arxiv`](https://arxiv.org/abs/1802.05656)
