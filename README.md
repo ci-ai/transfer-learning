@@ -61,6 +61,8 @@
 
 ##### 2018
 
+- [Energy Efficient Hardware for On-Device CNN Inference via Transfer Learning](https://arxiv.org/abs/1812.01672v1)
+- [Adversarial Transfer Learning](https://arxiv.org/abs/1812.02849v1)
 - [Deep Variational Transfer: Transfer Learning through Semi-supervised Deep Generative Models](https://arxiv.org/abs/1812.03123v1)
 - [Dynamic Transfer Learning for Named Entity Recognition](https://arxiv.org/abs/1812.05288v1)
 - [Secure Federated Transfer Learning](https://arxiv.org/abs/1812.03337v1)
