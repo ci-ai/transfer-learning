@@ -61,6 +61,8 @@
 
 ##### 2018
 
+- [Secure Federated Transfer Learning](https://arxiv.org/abs/1812.03337v1)
+- [When Semi-Supervised Learning Meets Transfer Learning: Training Strategies, Models and Datasets](https://arxiv.org/abs/1812.05313v1)
 - [Transfer Metric Learning: Algorithms, Applications and Outlooks](https://arxiv.org/abs/1810.03944v3)
 - [Controllability, Multiplexing, and Transfer Learning in Networks using Evolutionary Learning](https://arxiv.org/abs/1811.05592v1)
 - [Theoretical Guarantees of Transfer Learning](https://arxiv.org/abs/1810.05986v2)
@@ -76,6 +78,7 @@
 
 
 ##### 2017
+
 
 
 - Aligned Image-Word Representations Improve Inductive Transfer Across Vision-Language Tasks. [`arxiv`](https://arxiv.org/abs/1704.00260)
