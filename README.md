@@ -61,6 +61,8 @@
 
 ##### 2018
 
+- [Deep Variational Transfer: Transfer Learning through Semi-supervised Deep Generative Models](https://arxiv.org/abs/1812.03123v1)
+- [Dynamic Transfer Learning for Named Entity Recognition](https://arxiv.org/abs/1812.05288v1)
 - [Secure Federated Transfer Learning](https://arxiv.org/abs/1812.03337v1)
 - [When Semi-Supervised Learning Meets Transfer Learning: Training Strategies, Models and Datasets](https://arxiv.org/abs/1812.05313v1)
 - [Transfer Metric Learning: Algorithms, Applications and Outlooks](https://arxiv.org/abs/1810.03944v3)
