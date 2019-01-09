@@ -63,6 +63,11 @@
 
 ##### 2018
 
+
+- [When Semi-Supervised Learning Meets Transfer Learning: Training Strategies, Models and Datasets](https://arxiv.org/abs/1812.05313v1)
+- [Learning to Selectively Transfer: Reinforced Transfer Learning for Deep Text Matching](https://arxiv.org/abs/1812.11561v1)
+- [Transfer Learning in Astronomy: A New Machine-Learning Paradigm](https://arxiv.org/abs/1812.10403v1)
+- [An introduction to domain adaptation and transfer learning](https://arxiv.org/abs/1812.11806v1)
 - [Deep Transfer Learning for Static Malware Classification](https://arxiv.org/abs/1812.07606v1)
 - [Energy Efficient Hardware for On-Device CNN Inference via Transfer Learning](https://arxiv.org/abs/1812.01672v1)
 - [Adversarial Transfer Learning](https://arxiv.org/abs/1812.02849v1)
