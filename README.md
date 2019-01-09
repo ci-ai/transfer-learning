@@ -28,8 +28,10 @@
 | [tensorflow_multigpu_imagenet](https://github.com/arashno/tensorflow_multigpu_imagenet)
 | [keras_transfer_cifar10](https://github.com/alexisbcook/keras_transfer_cifar10)
 | [Transfer-Learning-Suite](https://github.com/GeorgeSeif/Transfer-Learning-Suite)
-| [Image-classification-transfer-learning](https://github.com/wisdal/Image-classification-transfer-learning)
-| [Transfer-Learning-in-keras---custom-data](https://github.com/anujshah1003/Transfer-Learning-in-keras---custom-data)
+| [Image-classification-transfer-learning](https://github.com/wisdal/Image-classification-transfer-learning) ||
+
+
+|| [Transfer-Learning-in-keras---custom-data](https://github.com/anujshah1003/Transfer-Learning-in-keras---custom-data)
 | [transfer-learning-anime](https://github.com/freedomofkeima/transfer-learning-anime)
 | [CarND-Transfer-Learning-Lab](https://github.com/udacity/CarND-Transfer-Learning-Lab)
 | [bigdata18](https://github.com/hfawaz/bigdata18)
