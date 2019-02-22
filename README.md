@@ -61,6 +61,21 @@
 
 #### Review Papers
 
+2019
+
+- [Transfusion: Understanding Transfer Learning with Applications to Medical Imaging](https://arxiv.org/abs/1902.07208v1)
+- [Machine Learning on Biomedical Images: Interactive Learning, Transfer Learning, Class Imbalance, and Beyond](https://arxiv.org/abs/1902.05908v1)
+- [Transfer Learning From Sound Representations For Anger Detection in Speech](https://arxiv.org/abs/1902.02120v1)
+- [TransferTransfo: A Transfer Learning Approach for Neural Network Based Conversational Agents](https://arxiv.org/abs/1901.08149v2)
+- [Transfer in Deep Reinforcement Learning Using Successor Features and Generalised Policy Improvement](https://arxiv.org/abs/1901.10964v1)
+- [Transfer Learning with Neural AutoML](https://arxiv.org/abs/1803.02780v5)
+- [Transfer Learning and Meta Classification Based Deep Churn Prediction System for Telecom Industry](https://arxiv.org/abs/1901.06091v1)
+- [Virtual-to-Real-World Transfer Learning for Robots on Wilderness Trails](https://arxiv.org/abs/1901.05599v1)
+
+
+
+---------------
+
 ##### 2018
 
 
