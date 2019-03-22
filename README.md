@@ -71,8 +71,12 @@
 - [Transfer Learning with Neural AutoML](https://arxiv.org/abs/1803.02780v5)
 - [Transfer Learning and Meta Classification Based Deep Churn Prediction System for Telecom Industry](https://arxiv.org/abs/1901.06091v1)
 - [Virtual-to-Real-World Transfer Learning for Robots on Wilderness Trails](https://arxiv.org/abs/1901.05599v1)
-
-
+- [Exploiting Hierarchy for Learning and Transfer in KL-regularized RL](https://arxiv.org/abs/1903.07438v1)
+- [Model-Based Task Transfer Learning](https://arxiv.org/abs/1903.07003v1)
+- [Cleaning tasks knowledge transfer between heterogeneous robots: a deep learning approach](https://arxiv.org/abs/1903.05635v1)
+- [Transfer Learning Using Ensemble Neural Nets for Organic Solar Cell Screening](https://arxiv.org/abs/1903.03178v1)
+- [An Embarrassingly Simple Approach for Transfer Learning from Pretrained Language Models](https://arxiv.org/abs/1902.10547v1)
+- [FixyNN: Efficient Hardware for Mobile Computer Vision via Transfer Learning](https://arxiv.org/abs/1902.11128v1)
 
 ---------------
 
