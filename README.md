@@ -63,6 +63,9 @@
 
 2019
 
+- [Recent Advances in Transfer Learning for Cross-Dataset Visual Recognition: A Problem-Oriented Perspective](https://arxiv.org/abs/1705.04396v3)
+- [DELTA: DEep Learning Transfer using Feature Map with Attention for Convolutional Networks](https://arxiv.org/abs/1901.09229v2)
+- [Attention-based Transfer Learning for Brain-computer Interface](https://arxiv.org/abs/1904.11950v1)
 - [REGAL: Transfer Learning For Fast Optimization of Computation Graphs](https://arxiv.org/abs/1905.02494v2)
 - [Hyperparameter Learning via Distributional Transfer](https://arxiv.org/abs/1810.06305v3)
 - [Using Deep Networks and Transfer Learning to Address Disinformation](https://arxiv.org/abs/1905.10412v1)
