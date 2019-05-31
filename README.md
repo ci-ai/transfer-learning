@@ -63,6 +63,11 @@
 
 2019
 
+- [REGAL: Transfer Learning For Fast Optimization of Computation Graphs](https://arxiv.org/abs/1905.02494v2)
+- [Hyperparameter Learning via Distributional Transfer](https://arxiv.org/abs/1810.06305v3)
+- [Using Deep Networks and Transfer Learning to Address Disinformation](https://arxiv.org/abs/1905.10412v1)
+- [Adversarially robust transfer learning](https://arxiv.org/abs/1905.08232v1)
+- [Brain-mediated Transfer Learning of Convolutional Neural Networks](https://arxiv.org/abs/1905.10037v1)
 - [Transfusion: Understanding Transfer Learning with Applications to Medical Imaging](https://arxiv.org/abs/1902.07208v1)
 - [Machine Learning on Biomedical Images: Interactive Learning, Transfer Learning, Class Imbalance, and Beyond](https://arxiv.org/abs/1902.05908v1)
 - [Transfer Learning From Sound Representations For Anger Detection in Speech](https://arxiv.org/abs/1902.02120v1)
