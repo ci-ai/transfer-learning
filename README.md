@@ -63,6 +63,10 @@
 
 2019
 
+
+- [A Dual Reinforcement Learning Framework for Unsupervised Text Style Transfer](https://arxiv.org/abs/1905.10060v1)
+- [Time Series Anomaly Detection Using Convolutional Neural Networks and Transfer Learning](https://arxiv.org/abs/1905.13628v1)
+- [Augmenting Transfer Learning with Semantic Reasoning](https://arxiv.org/abs/1905.13672v1)
 - [Recent Advances in Transfer Learning for Cross-Dataset Visual Recognition: A Problem-Oriented Perspective](https://arxiv.org/abs/1705.04396v3)
 - [DELTA: DEep Learning Transfer using Feature Map with Attention for Convolutional Networks](https://arxiv.org/abs/1901.09229v2)
 - [Attention-based Transfer Learning for Brain-computer Interface](https://arxiv.org/abs/1904.11950v1)
