@@ -90,6 +90,7 @@
 - [An Embarrassingly Simple Approach for Transfer Learning from Pretrained Language Models](https://arxiv.org/abs/1902.10547v1)
 - [FixyNN: Efficient Hardware for Mobile Computer Vision via Transfer Learning](https://arxiv.org/abs/1902.11128v1)
 - [Hardware Conditioned Policies for Multi-Robot Transfer Learning](https://arxiv.org/abs/1811.09864v2)
+- [Pay Attention to Convolution Filters: Towards Fast and Accurate Fine-Grained Transfer Learning](https://arxiv.org/abs/1906.04950v1)
 
 ---------------
 
