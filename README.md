@@ -91,6 +91,7 @@
 - [FixyNN: Efficient Hardware for Mobile Computer Vision via Transfer Learning](https://arxiv.org/abs/1902.11128v1)
 - [Hardware Conditioned Policies for Multi-Robot Transfer Learning](https://arxiv.org/abs/1811.09864v2)
 - [Pay Attention to Convolution Filters: Towards Fast and Accurate Fine-Grained Transfer Learning](https://arxiv.org/abs/1906.04950v1)
+- [DoubleTransfer at MEDIQA 2019: Multi-Source Transfer Learning for Natural Language Understanding in the Medical Domain](https://arxiv.org/abs/1906.04382v1)
 
 ---------------
 
