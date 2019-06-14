@@ -92,6 +92,8 @@
 - [Hardware Conditioned Policies for Multi-Robot Transfer Learning](https://arxiv.org/abs/1811.09864v2)
 - [Pay Attention to Convolution Filters: Towards Fast and Accurate Fine-Grained Transfer Learning](https://arxiv.org/abs/1906.04950v1)
 - [DoubleTransfer at MEDIQA 2019: Multi-Source Transfer Learning for Natural Language Understanding in the Medical Domain](https://arxiv.org/abs/1906.04382v1)
+- [Multi-Source Cross-Lingual Model Transfer: Learning What to Share](https://arxiv.org/abs/1810.03552v3)
+- [System Demo for Transfer Learning across Vision and Text using Domain Specific CNN Accelerator for On-Device NLP Applications](https://arxiv.org/abs/1906.01145v1)
 
 ---------------
 
