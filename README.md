@@ -96,6 +96,7 @@
 - [System Demo for Transfer Learning across Vision and Text using Domain Specific CNN Accelerator for On-Device NLP Applications](https://arxiv.org/abs/1906.01145v1)
 - [Transfer Learning from Speaker Verification to
 Multispeaker Text-To-Speech Synthesis](https://arxiv.org/pdf/1806.04558v4.pdf)
+- [Evaluating Protein Transfer Learning with TAPE](https://arxiv.org/pdf/1906.08230v1.pdf)
 
 ---------------
 
