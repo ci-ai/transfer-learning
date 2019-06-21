@@ -94,6 +94,8 @@
 - [DoubleTransfer at MEDIQA 2019: Multi-Source Transfer Learning for Natural Language Understanding in the Medical Domain](https://arxiv.org/abs/1906.04382v1)
 - [Multi-Source Cross-Lingual Model Transfer: Learning What to Share](https://arxiv.org/abs/1810.03552v3)
 - [System Demo for Transfer Learning across Vision and Text using Domain Specific CNN Accelerator for On-Device NLP Applications](https://arxiv.org/abs/1906.01145v1)
+- [Transfer Learning from Speaker Verification to
+Multispeaker Text-To-Speech Synthesis](https://arxiv.org/pdf/1806.04558v4.pdf)
 
 ---------------
 
