@@ -99,6 +99,8 @@ Multispeaker Text-To-Speech Synthesis](https://arxiv.org/pdf/1806.04558v4.pdf)
 - [Evaluating Protein Transfer Learning with TAPE](https://arxiv.org/pdf/1906.08230v1.pdf)
 - [Transfer Learning for Segmenting Dimensionally-Reduced Hyperspectral Images](https://arxiv.org/abs/1906.09631v1)
 - [Transfer Learning for Causal Sentence Detection](https://arxiv.org/abs/1906.07544v2)
+- [Deep Transfer Learning for Single-Channel Automatic Sleep Staging with Channel Mismatch](https://arxiv.org/abs/1904.05945v2)
+- [Transfer Learning Using Ensemble Neural Networks for Organic Solar Cell Screening](https://arxiv.org/abs/1903.03178v3)
 
 ---------------
 
