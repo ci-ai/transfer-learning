@@ -102,6 +102,8 @@ Multispeaker Text-To-Speech Synthesis](https://arxiv.org/pdf/1806.04558v4.pdf)
 - [Deep Transfer Learning for Single-Channel Automatic Sleep Staging with Channel Mismatch](https://arxiv.org/abs/1904.05945v2)
 - [Transfer Learning Using Ensemble Neural Networks for Organic Solar Cell Screening](https://arxiv.org/abs/1903.03178v3)
 - [Mind2Mind : transfer learning for GANs](https://arxiv.org/abs/1906.11613v1)
+- [Transfer Learning Across Simulated Robots With Different Sensors](https://arxiv.org/abs/1907.07958v1)
+- [Transfer Learning for Risk Classification of Social Media Posts: Model Evaluation Study](https://arxiv.org/abs/1907.02581v2)
 
 ---------------
 
