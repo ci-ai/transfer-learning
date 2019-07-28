@@ -107,6 +107,7 @@ Multispeaker Text-To-Speech Synthesis](https://arxiv.org/pdf/1806.04558v4.pdf)
 - [Credit Assignment as a Proxy for Transfer in Reinforcement Learning](https://arxiv.org/abs/1907.08027v1)
 - [FedHealth: A Federated Transfer Learning Framework for Wearable Healthcare](https://arxiv.org/pdf/1907.09173v1.pdf)
 - [Low-Shot Classification: A Comparison of Classical and Deep Transfer Machine Learning Approaches](https://arxiv.org/abs/1907.07543v1)
+- [Applying Transfer Learning To Deep Learned Models For EEG Analysis](https://arxiv.org/pdf/1907.01332v1.pdf)
 
 ---------------
 
